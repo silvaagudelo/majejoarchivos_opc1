@@ -8,3 +8,5 @@ node index.js enroll --c=<<Id del curso>> --n=<<Nombre del estudiante>> --i=<<Id
 
 Ejemplo de listado de cursos
 node index.js list
+
+Una vez ejecutado alguno de los comandos se debe acceder a la url http://localhost:3000/enroll o http://localhost:3000/list respectivamente.
