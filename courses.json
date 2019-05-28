@@ -1,0 +1,16 @@
+[{
+    "id": 0,
+    "nombre": "Religión",
+    "duracion": 40,
+    "valor": 332000
+}, {
+    "id": 1,
+    "nombre": "Inglés",
+    "duracion": 900,
+    "valor": 2050000
+}, {
+    "id": 2,
+    "nombre": "Artística",
+    "duracion": 80,
+    "valor": 48000
+}]

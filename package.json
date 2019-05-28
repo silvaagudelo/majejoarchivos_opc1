@@ -1,0 +1,22 @@
+{
+  "name": "project_one",
+  "version": "1.0.0",
+  "description": "Primer proyecto de curso virtual del TdaA",
+  "main": "index.js",
+  "scripts": {
+    "start":"node .",
+    "update": "ncu -u to upgrade package.json"
+  },
+  "keywords": [
+    "1er",
+    "primer",
+    "ProjectOne"
+  ],
+  "author": "Carlos Andrés Silva Agudelo",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "npm-check-updates": "^3.1.9",
+    "yargs": "^13.2.4"
+  }
+}
